@@ -1,0 +1,59 @@
+{
+    "categories": {
+      "Python": [
+        {
+          "id": 1,
+          "question": "Quel est le type de données en Python pour représenter du texte ?",
+          "options": {
+            "a": "int",
+            "b": "str",
+            "c": "list"
+          },
+          "correct_option": "b"
+        },
+        {
+          "id": 2,
+          "question": "Quelle méthode est utilisée pour ajouter un élément à une liste en Python ?",
+          "options": {
+            "a": "append()",
+            "b": "insert()",
+            "c": "add()"
+          },
+          "correct_option": "a"
+        },
+        {
+          "id": 3,
+          "question": "Quelle est la sortie de `len([1, 2, 3])` ?",
+          "options": {
+            "a": "3",
+            "b": "2",
+            "c": "1"
+          },
+          "correct_option": "a"
+        }
+      ],
+      "Réseaux": [
+        {
+          "id": 1,
+          "question": "Quel protocole est utilisé pour transférer des fichiers ?",
+          "options": {
+            "a": "HTTP",
+            "b": "FTP",
+            "c": "DNS"
+          },
+          "correct_option": "b"
+        },
+        {
+          "id": 2,
+          "question": "Que signifie l'acronyme IP ?",
+          "options": {
+            "a": "Internet Protocol",
+            "b": "Internal Process",
+            "c": "Input Protocol"
+          },
+          "correct_option": "a"
+        }
+      ]
+    }
+  }
+  
