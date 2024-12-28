@@ -1,0 +1,108 @@
+{
+  "categories": {
+    "Python": [
+      {
+        "id": 1,
+        "question": "Quel est le type de donnees en Python pour representer du texte ?",
+        "options": {
+          "a": "int",
+          "b": "str",
+          "c": "list"
+        },
+        "correct_option": "b"
+      },
+      {
+        "id": 2,
+        "question": "Quelle methode est utilisee pour ajouter un element à une liste en Python ?",
+        "options": {
+          "a": "append()",
+          "b": "insert()",
+          "c": "add()"
+        },
+        "correct_option": "a"
+      },
+      {
+        "id": 3,
+        "question": "Quelle est la sortie de `len([1, 2, 3])` ?",
+        "options": {
+          "a": "3",
+          "b": "2",
+          "c": "1"
+        },
+        "correct_option": "a"
+      },
+      {
+        "id": 4,
+        "question": "Quel operateur est utilise pour la concatenation de chaînes en Python ?",
+        "options": {
+          "a": "+",
+          "b": "-",
+          "c": "*"
+        },
+        "correct_option": "a"
+      },
+      {
+        "id": 5,
+        "question": "Comment definir une fonction en Python ?",
+        "options": {
+          "a": "function ma_fonction():",
+          "b": "def ma_fonction():",
+          "c": "func ma_fonction():"
+        },
+        "correct_option": "b"
+      }
+    ],
+    "Reseaux": [
+      {
+        "id": 1,
+        "question": "Quel protocole est utilise pour transferer des fichiers ?",
+        "options": {
+          "a": "HTTP",
+          "b": "FTP",
+          "c": "DNS"
+        },
+        "correct_option": "b"
+      },
+      {
+        "id": 2,
+        "question": "Que signifie l'acronyme IP ?",
+        "options": {
+          "a": "Internet Protocol",
+          "b": "Internal Process",
+          "c": "Input Protocol"
+        },
+        "correct_option": "a"
+      },
+      {
+        "id": 3,
+        "question": "Quel port est utilise par le protocole FTP ?",
+        "options": {
+          "a": "21",
+          "b": "80",
+          "c": "443"
+        },
+        "correct_option": "a"
+      },
+      {
+        "id": 4,
+        "question": "Qu'est-ce qu'un paquet IP ?",
+        "options": {
+          "a": "Un segment de donnees echange sur un reseau",
+          "b": "Un processus de communication entre deux ordinateurs",
+          "c": "Un fichier transfere via HTTP"
+        },
+        "correct_option": "a"
+      },
+      {
+        "id": 5,
+        "question": "Lequel des suivants est un protocole de routage ?",
+        "options": {
+          "a": "SMTP",
+          "b": "OSPF",
+          "c": "DNS"
+        },
+        "correct_option": "b"
+      }
+    ]
+  }
+}
