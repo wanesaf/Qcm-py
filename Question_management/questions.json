@@ -1,59 +1,108 @@
 {
-    "categories": {
-      "Python": [
-        {
-          "id": 1,
-          "question": "Quel est le type de données en Python pour représenter du texte ?",
-          "options": {
-            "a": "int",
-            "b": "str",
-            "c": "list"
-          },
-          "correct_option": "b"
+  "categories": {
+    "Python": [
+      {
+        "id": 1,
+        "question": "Quel est le type de données en Python pour représenter du texte ?",
+        "options": {
+          "a": "int",
+          "b": "str",
+          "c": "list"
         },
-        {
-          "id": 2,
-          "question": "Quelle méthode est utilisée pour ajouter un élément à une liste en Python ?",
-          "options": {
-            "a": "append()",
-            "b": "insert()",
-            "c": "add()"
-          },
-          "correct_option": "a"
+        "correct_option": "b"
+      },
+      {
+        "id": 2,
+        "question": "Quelle méthode est utilisée pour ajouter un élément à une liste en Python ?",
+        "options": {
+          "a": "append()",
+          "b": "insert()",
+          "c": "add()"
         },
-        {
-          "id": 3,
-          "question": "Quelle est la sortie de `len([1, 2, 3])` ?",
-          "options": {
-            "a": "3",
-            "b": "2",
-            "c": "1"
-          },
-          "correct_option": "a"
-        }
-      ],
-      "Réseaux": [
-        {
-          "id": 1,
-          "question": "Quel protocole est utilisé pour transférer des fichiers ?",
-          "options": {
-            "a": "HTTP",
-            "b": "FTP",
-            "c": "DNS"
-          },
-          "correct_option": "b"
+        "correct_option": "a"
+      },
+      {
+        "id": 3,
+        "question": "Quelle est la sortie de `len([1, 2, 3])` ?",
+        "options": {
+          "a": "3",
+          "b": "2",
+          "c": "1"
         },
-        {
-          "id": 2,
-          "question": "Que signifie l'acronyme IP ?",
-          "options": {
-            "a": "Internet Protocol",
-            "b": "Internal Process",
-            "c": "Input Protocol"
-          },
-          "correct_option": "a"
-        }
-      ]
-    }
+        "correct_option": "a"
+      },
+      {
+        "id": 4,
+        "question": "Quel opérateur est utilisé pour la concaténation de chaînes en Python ?",
+        "options": {
+          "a": "+",
+          "b": "-",
+          "c": "*"
+        },
+        "correct_option": "a"
+      },
+      {
+        "id": 5,
+        "question": "Comment définir une fonction en Python ?",
+        "options": {
+          "a": "function ma_fonction():",
+          "b": "def ma_fonction():",
+          "c": "func ma_fonction():"
+        },
+        "correct_option": "b"
+      }
+    ],
+    "Réseaux": [
+      {
+        "id": 1,
+        "question": "Quel protocole est utilisé pour transférer des fichiers ?",
+        "options": {
+          "a": "HTTP",
+          "b": "FTP",
+          "c": "DNS"
+        },
+        "correct_option": "b"
+      },
+      {
+        "id": 2,
+        "question": "Que signifie l'acronyme IP ?",
+        "options": {
+          "a": "Internet Protocol",
+          "b": "Internal Process",
+          "c": "Input Protocol"
+        },
+        "correct_option": "a"
+      },
+      {
+        "id": 3,
+        "question": "Quel port est utilisé par le protocole FTP ?",
+        "options": {
+          "a": "21",
+          "b": "80",
+          "c": "443"
+        },
+        "correct_option": "a"
+      },
+      {
+        "id": 4,
+        "question": "Qu'est-ce qu'un paquet IP ?",
+        "options": {
+          "a": "Un segment de données échangé sur un réseau",
+          "b": "Un processus de communication entre deux ordinateurs",
+          "c": "Un fichier transféré via HTTP"
+        },
+        "correct_option": "a"
+      },
+      {
+        "id": 5,
+        "question": "Lequel des suivants est un protocole de routage ?",
+        "options": {
+          "a": "SMTP",
+          "b": "OSPF",
+          "c": "DNS"
+        },
+        "correct_option": "b"
+      }
+    ]
   }
-  
+}
