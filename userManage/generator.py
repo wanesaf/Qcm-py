@@ -1,5 +1,6 @@
 import os
 import json
+import time
 from datetime import datetime
 from Question_management.qcmMang import *
 from userManage.user import *
@@ -56,6 +57,8 @@ def represents_int(id):
 
 
 def new_qcm(user_id):
+    start_time = time.time()  # Start the timer
+
     # Charger les questions par catégories
     questions_file = "Question_management/questions.json"
     categories = load_questions_by_category(questions_file)
@@ -92,10 +95,15 @@ def new_qcm(user_id):
             "user_answer": user_choice,
             "correct_answer": question["correct_option"]
         })
-             
+
+    # Stop the timer and calculate elapsed time
+    end_time = time.time()
+    elapsed_time = end_time - start_time
+
+    # Save the QCM result and display the score
     add_qcm_result(user_id, score, chosen_category, qcm_result)
     print_with_frame([f"Votre score final : {score}/{num_questions}"])
-     
+    print_with_frame([f"Temps écoulé : {elapsed_time:.2f} secondes"])
 
 
 def historique(user_id):
