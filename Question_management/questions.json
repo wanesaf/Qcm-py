@@ -33,7 +33,7 @@
       },
       {
         "id": 4,
-        "question": "Quel operateur est utilise pour la concatenation de chaînes en Python ?",
+        "question": "Quel operateur est utilise pour la concatenation de chaines en Python ?",
         "options": {
           "a": "+",
           "b": "-",
