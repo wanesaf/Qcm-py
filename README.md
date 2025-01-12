@@ -1,2 +1,2 @@
 # Qcm-py
-Une petite application de qcm en python. 
+Une petite Application de QCM en Python. 
