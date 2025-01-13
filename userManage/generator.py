@@ -36,7 +36,11 @@ def add_qcm_result(user_id, score, category, qcm):
     
     user = find_user_by_id(user_id)
     if user:
-        user["qcm_results"].append(qcm_entry)
+        if 'qcm_results' in user:
+         user["qcm_results"].append(qcm_entry)
+        else :
+         user["qcm_results"] = []
+         user["qcm_results"].append(qcm_entry)
     else:
         new_user = {
             "id": int(user_id),
@@ -136,9 +140,11 @@ def start():
             if int(user_id) > 0:
                 if exist(int(user_id)):
                     print_with_frame(["Utilisateur existe déjà!"])
+                    addedNow = False
                 else:
                     print_with_frame(["Ajouté dans la liste des utilisateurs!"])
                     addUser(int(user_id))
+                    addedNow = True
                 break
             else:
                 print("C'est pas un entier naturel")
@@ -154,6 +160,8 @@ def start():
             if int(choice) > 0:
                 if int(choice) == 1:
                     historique(user_id)
+                    if(addedNow) :
+                        print_with_frame([f"L'utilisateur avec ID {user_id} n'a pas encore fait de QCM!"])    
                     approve = input("Veuillez saisir 'y' si vous voulez passer un nouveau QCM : ")
                     if approve == 'y':
                         new_qcm(user_id)
