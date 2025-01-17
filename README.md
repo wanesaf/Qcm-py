@@ -1,5 +1,5 @@
 # Qcm-py
-Une petite Application de QCM en Python. 
+MCQ app using python. 
 
 ## Features 
 - Allows users to answer MCQs.
