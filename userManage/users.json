@@ -66,6 +66,38 @@
                             "correct_answer": "a"
                         }
                     ]
+                },
+                {
+                    "date": "2025-01-18 16:38:10",
+                    "score": 3,
+                    "category": "Cyber Security",
+                    "qcm": [
+                        {
+                            "question": "Quelle technique est utilis\u00c3\u00a9e pour d\u00c3\u00a9tecter des vuln\u00c3\u00a9rabilit\u00c3\u00a9s dans un syst\u00c3\u00a8me ?",
+                            "user_answer": "a",
+                            "correct_answer": "a"
+                        },
+                        {
+                            "question": "Quel protocole est souvent utilis\u00c3\u00a9 pour chiffrer les communications web ?",
+                            "user_answer": "a",
+                            "correct_answer": "b"
+                        },
+                        {
+                            "question": "Quel type d'attaque consiste \u00c3\u00a0 submerger un serveur de requ\u00c3\u00aates ?",
+                            "user_answer": "a",
+                            "correct_answer": "b"
+                        },
+                        {
+                            "question": "Quel est le but principal de la cryptographie ?",
+                            "user_answer": "a",
+                            "correct_answer": "a"
+                        },
+                        {
+                            "question": "Que signifie l'acronyme VPN ?",
+                            "user_answer": "a",
+                            "correct_answer": "a"
+                        }
+                    ]
                 }
             ]
         },
@@ -170,6 +202,43 @@
                             "question": "Quel operateur est utilise pour la concatenation de chaines en Python ?",
                             "user_answer": "a",
                             "correct_answer": "a"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "qcm_results": [
+                {
+                    "date": "2025-01-18 16:43:05",
+                    "score": 1,
+                    "category": "Developpement Web",
+                    "qcm": [
+                        {
+                            "question": "Quel langage est utilise pour les styles d'une page web ?",
+                            "user_answer": "a",
+                            "correct_answer": "b"
+                        },
+                        {
+                            "question": "Quelle balise HTML est utilisee pour inclure un fichier JavaScript ?",
+                            "user_answer": "a",
+                            "correct_answer": "b"
+                        },
+                        {
+                            "question": "Quel est l'objectif principal de JavaScript sur une page web ?",
+                            "user_answer": "a",
+                            "correct_answer": "b"
+                        },
+                        {
+                            "question": "Quel langage est principalement utilise pour structurer une page web ?",
+                            "user_answer": "a",
+                            "correct_answer": "a"
+                        },
+                        {
+                            "question": "Quelle commande est utilisee pour installer un package avec npm ?",
+                            "user_answer": "a",
+                            "correct_answer": "b"
                         }
                     ]
                 }

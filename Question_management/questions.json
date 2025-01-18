@@ -13,7 +13,7 @@
       },
       {
         "id": 2,
-        "question": "Quelle methode est utilisee pour ajouter un element à une liste en Python ?",
+        "question": "Quelle methode est utilisee pour ajouter un element a une liste en Python ?",
         "options": {
           "a": "append()",
           "b": "insert()",
@@ -100,6 +100,162 @@
           "a": "SMTP",
           "b": "OSPF",
           "c": "DNS"
+        },
+        "correct_option": "b"
+      }
+    ],
+    "Cyber Security": [
+      {
+        "id": 1,
+        "question": "Quel est le but principal de la cryptographie ?",
+        "options": {
+          "a": "Assurer la confidentialite",
+          "b": "Accelerer la transmission",
+          "c": "Compresser les donnees"
+        },
+        "correct_option": "a"
+      },
+      {
+        "id": 2,
+        "question": "Que signifie l'acronyme VPN ?",
+        "options": {
+          "a": "Virtual Private Network",
+          "b": "Verified Protocol Node",
+          "c": "Virtual Process Network"
+        },
+        "correct_option": "a"
+      },
+      {
+        "id": 3,
+        "question": "Quel type d'attaque consiste a submerger un serveur de requêtes ?",
+        "options": {
+          "a": "Phishing",
+          "b": "DDoS",
+          "c": "Man-in-the-Middle"
+        },
+        "correct_option": "b"
+      },
+      {
+        "id": 4,
+        "question": "Quel protocole est souvent utilise pour chiffrer les communications web ?",
+        "options": {
+          "a": "HTTP",
+          "b": "TLS/SSL",
+          "c": "FTP"
+        },
+        "correct_option": "b"
+      },
+      {
+        "id": 5,
+        "question": "Quelle technique est utilisee pour detecter des vulnerabilites dans un système ?",
+        "options": {
+          "a": "Scanning",
+          "b": "Spoofing",
+          "c": "Sniffing"
+        },
+        "correct_option": "a"
+      }
+    ],
+    "Developpement Web": [
+      {
+        "id": 1,
+        "question": "Quel langage est principalement utilise pour structurer une page web ?",
+        "options": {
+          "a": "HTML",
+          "b": "CSS",
+          "c": "JavaScript"
+        },
+        "correct_option": "a"
+      },
+      {
+        "id": 2,
+        "question": "Quel langage est utilise pour les styles d'une page web ?",
+        "options": {
+          "a": "JavaScript",
+          "b": "CSS",
+          "c": "HTML"
+        },
+        "correct_option": "b"
+      },
+      {
+        "id": 3,
+        "question": "Quelle balise HTML est utilisee pour inclure un fichier JavaScript ?",
+        "options": {
+          "a": "<js>",
+          "b": "<script>",
+          "c": "<javascript>"
+        },
+        "correct_option": "b"
+      },
+      {
+        "id": 4,
+        "question": "Quel est l'objectif principal de JavaScript sur une page web ?",
+        "options": {
+          "a": "Styler la page",
+          "b": "Ajouter de l'interactivite",
+          "c": "Structurer le contenu"
+        },
+        "correct_option": "b"
+      },
+      {
+        "id": 5,
+        "question": "Quelle commande est utilisee pour installer un package avec npm ?",
+        "options": {
+          "a": "npm add",
+          "b": "npm install",
+          "c": "npm get"
+        },
+        "correct_option": "b"
+      }
+    ],
+    "Algorithmes": [
+      {
+        "id": 1,
+        "question": "Quel est le but principal d'un algorithme de tri ?",
+        "options": {
+          "a": "Trouver un element",
+          "b": "Ordonner des donnees",
+          "c": "Diviser des donnees"
+        },
+        "correct_option": "b"
+      },
+      {
+        "id": 2,
+        "question": "Quel algorithme de recherche a une complexite O(log n) ?",
+        "options": {
+          "a": "Recherche lineaire",
+          "b": "Recherche binaire",
+          "c": "Recherche exhaustive"
+        },
+        "correct_option": "b"
+      },
+      {
+        "id": 3,
+        "question": "Quelle structure de donnees est utilisee pour une recherche rapide ?",
+        "options": {
+          "a": "Pile",
+          "b": "Table de hachage",
+          "c": "File d'attente"
+        },
+        "correct_option": "b"
+      },
+      {
+        "id": 4,
+        "question": "Quel algorithme est utilise pour trouver le plus court chemin dans un graphe ?",
+        "options": {
+          "a": "Dijkstra",
+          "b": "Quicksort",
+          "c": "Ford-Fulkerson"
+        },
+        "correct_option": "a"
+      },
+      {
+        "id": 5,
+        "question": "Quelle est la complexite temporelle moyenne du tri par insertion ?",
+        "options": {
+          "a": "O(n)",
+          "b": "O(n^2)",
+          "c": "O(log n)"
         },
         "correct_option": "b"
       }
