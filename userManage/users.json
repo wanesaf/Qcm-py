@@ -98,6 +98,234 @@
                             "correct_answer": "a"
                         }
                     ]
+                },
+                {
+                    "date": "2025-01-20 12:33:35",
+                    "score": 3,
+                    "category": "Developpement Web",
+                    "qcm": [
+                        {
+                            "question": "Quel balise est utilisee pour creer un formulaire HTML ?",
+                            "user_answer": "a",
+                            "correct_answer": "a"
+                        },
+                        {
+                            "question": "Quel framework est utilise pour des interfaces Reactives ?",
+                            "user_answer": "a",
+                            "correct_answer": "a"
+                        },
+                        {
+                            "question": "Quel langage est utilise pour les styles d'une page web ?",
+                            "user_answer": "a",
+                            "correct_answer": "b"
+                        },
+                        {
+                            "question": "Quel type de requete HTTP est utilise pour envoyer des donnees ?",
+                            "user_answer": "a",
+                            "correct_answer": "b"
+                        },
+                        {
+                            "question": "Quel est l'objectif principal de JavaScript sur une page web ?",
+                            "user_answer": "a",
+                            "correct_answer": "b"
+                        },
+                        {
+                            "question": "Quel est l'avantage principal des feuilles de style externes ?",
+                            "user_answer": "a",
+                            "correct_answer": "b"
+                        },
+                        {
+                            "question": "Quel langage est principalement utilise pour structurer une page web ?",
+                            "user_answer": "a",
+                            "correct_answer": "a"
+                        },
+                        {
+                            "question": "Quelle balise HTML est utilisee pour inclure un fichier JavaScript ?",
+                            "user_answer": "a",
+                            "correct_answer": "b"
+                        },
+                        {
+                            "question": "Quel est l'objectif de l'attribut 'alt' dans une balise <img> ?",
+                            "user_answer": "a",
+                            "correct_answer": "c"
+                        },
+                        {
+                            "question": "Quelle commande est utilisee pour installer un package avec npm ?",
+                            "user_answer": "a",
+                            "correct_answer": "b"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-01-20 12:38:43",
+                    "score": 5,
+                    "category": "Algorithmes",
+                    "qcm": [
+                        {
+                            "question": "Quelle est la complexite temporelle moyenne du tri par insertion ?",
+                            "user_answer": "b",
+                            "correct_answer": "b"
+                        },
+                        {
+                            "question": "Quel algorithme de recherche a une complexite O(log n) ?",
+                            "user_answer": "a",
+                            "correct_answer": "b"
+                        },
+                        {
+                            "question": "Quelle structure de donnees est utilisee pour une recherche rapide ?",
+                            "user_answer": "b",
+                            "correct_answer": "b"
+                        },
+                        {
+                            "question": "Quel est le but de la recherche dichotomique ?",
+                            "user_answer": "a",
+                            "correct_answer": "b"
+                        },
+                        {
+                            "question": "Quelle est la complexite du tri a bulles dans le pire des cas ?",
+                            "user_answer": "a",
+                            "correct_answer": "b"
+                        },
+                        {
+                            "question": "Quel algorithme est utilise pour detecter des cycles dans un graphe ?",
+                            "user_answer": "c",
+                            "correct_answer": "a"
+                        },
+                        {
+                            "question": "Quel algorithme est utilise pour trouver le plus court chemin dans un graphe ?",
+                            "user_answer": "a",
+                            "correct_answer": "a"
+                        },
+                        {
+                            "question": "Quel est le but principal d'un algorithme de tri ?",
+                            "user_answer": "c",
+                            "correct_answer": "b"
+                        },
+                        {
+                            "question": "Quel algorithme de tri est base sur une structure de tas (heap) ?",
+                            "user_answer": "a",
+                            "correct_answer": "a"
+                        },
+                        {
+                            "question": "Quel est le but d'un algorithme de compression ?",
+                            "user_answer": "a",
+                            "correct_answer": "a"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-01-20 12:43:53",
+                    "score": 7,
+                    "category": "Cyber Security",
+                    "qcm": [
+                        {
+                            "question": "Que signifie l'acronyme VPN ?",
+                            "user_answer": "a",
+                            "correct_answer": "a"
+                        },
+                        {
+                            "question": "Qu'est-ce qu'une attaque brute force ?",
+                            "user_answer": "b",
+                            "correct_answer": "a"
+                        },
+                        {
+                            "question": "Quel outil est utilise pour capturer des paquets reseaux ?",
+                            "user_answer": "a",
+                            "correct_answer": "a"
+                        },
+                        {
+                            "question": "Quelle technique est utilisee pour detecter des vulnerabilites dans un syst\u00c3\u00a8me ?",
+                            "user_answer": "a",
+                            "correct_answer": "a"
+                        },
+                        {
+                            "question": "Quel est le but principal de la cryptographie ?",
+                            "user_answer": "a",
+                            "correct_answer": "a"
+                        },
+                        {
+                            "question": "Quel protocole est souvent utilise pour chiffrer les communications web ?",
+                            "user_answer": "a",
+                            "correct_answer": "b"
+                        },
+                        {
+                            "question": "Quel terme designe un logiciel malveillant ?",
+                            "user_answer": "a",
+                            "correct_answer": "a"
+                        },
+                        {
+                            "question": "Que signifie l'acronyme IDS ?",
+                            "user_answer": "a",
+                            "correct_answer": "a"
+                        },
+                        {
+                            "question": "Quel type d'attaque consiste a submerger un serveur de requ\u00c3\u00aates ?",
+                            "user_answer": "a",
+                            "correct_answer": "b"
+                        },
+                        {
+                            "question": "Quel est le role d'un certificat SSL ?",
+                            "user_answer": "a",
+                            "correct_answer": "a"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-01-20 12:44:26",
+                    "score": 6,
+                    "category": "Python",
+                    "qcm": [
+                        {
+                            "question": "Comment definir une fonction en Python ?",
+                            "user_answer": "a",
+                            "correct_answer": "b"
+                        },
+                        {
+                            "question": "Quelle est la valeur par defaut d'un argument si non defini dans une fonction ?",
+                            "user_answer": "a",
+                            "correct_answer": "a"
+                        },
+                        {
+                            "question": "Quelle est la sortie de `len([1, 2, 3])` ?",
+                            "user_answer": "a",
+                            "correct_answer": "a"
+                        },
+                        {
+                            "question": "Quelle fonction est utilisee pour convertir une chaine en entier en Python ?",
+                            "user_answer": "a",
+                            "correct_answer": "a"
+                        },
+                        {
+                            "question": "Comment declare-t-on un commentaire en Python ?",
+                            "user_answer": "a",
+                            "correct_answer": "b"
+                        },
+                        {
+                            "question": "Quelle est la sortie de `print(2 ** 3)` ?",
+                            "user_answer": "a",
+                            "correct_answer": "b"
+                        },
+                        {
+                            "question": "Quel est le type de donnees en Python pour representer du texte ?",
+                            "user_answer": "a",
+                            "correct_answer": "b"
+                        },
+                        {
+                            "question": "Quelle methode est utilisee pour ajouter un element a une liste en Python ?",
+                            "user_answer": "a",
+                            "correct_answer": "a"
+                        },
+                        {
+                            "question": "Quel module est utilise pour manipuler des fichiers JSON en Python ?",
+                            "user_answer": "a",
+                            "correct_answer": "a"
+                        },
+                        {
+                            "question": "Quel operateur est utilise pour la concatenation de chaines en Python ?",
+                            "user_answer": "a",
+                            "correct_answer": "a"
+                        }
+                    ]
                 }
             ]
         },

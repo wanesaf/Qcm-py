@@ -120,7 +120,7 @@ def historique(user_id):
                 ]
                 for result in user["qcm_results"]:
                     results_lines.append(
-                        f"Date: {result['date']}, Score: {result['score']}/5, Category: {result['category']}"
+                        f"Date: {result['date']}, Score: {result['score']}/10, Category: {result['category']}"
                     )
                 results_lines.append("-" * (os.get_terminal_size().columns - 4))
                 

@@ -50,6 +50,56 @@
           "c": "func ma_fonction():"
         },
         "correct_option": "b"
+      },
+      {
+        "id": 6,
+        "question": "Quelle fonction est utilisee pour convertir une chaine en entier en Python ?",
+        "options": {
+          "a": "int()",
+          "b": "str()",
+          "c": "float()"
+        },
+        "correct_option": "a"
+      },
+      {
+        "id": 7,
+        "question": "Comment declare-t-on un commentaire en Python ?",
+        "options": {
+          "a": "//",
+          "b": "#",
+          "c": "/* */"
+        },
+        "correct_option": "b"
+      },
+      {
+        "id": 8,
+        "question": "Quelle est la sortie de `print(2 ** 3)` ?",
+        "options": {
+          "a": "6",
+          "b": "8",
+          "c": "9"
+        },
+        "correct_option": "b"
+      },
+      {
+        "id": 9,
+        "question": "Quel module est utilise pour manipuler des fichiers JSON en Python ?",
+        "options": {
+          "a": "json",
+          "b": "os",
+          "c": "pickle"
+        },
+        "correct_option": "a"
+      },
+      {
+        "id": 10,
+        "question": "Quelle est la valeur par defaut d'un argument si non defini dans une fonction ?",
+        "options": {
+          "a": "None",
+          "b": "0",
+          "c": "''"
+        },
+        "correct_option": "a"
       }
     ],
     "Reseaux": [
@@ -102,6 +152,56 @@
           "c": "DNS"
         },
         "correct_option": "b"
+      },
+      {
+        "id": 6,
+        "question": "Quel protocole est utilise pour des emails ?",
+        "options": {
+          "a": "SMTP",
+          "b": "FTP",
+          "c": "HTTP"
+        },
+        "correct_option": "a"
+      },
+      {
+        "id": 7,
+        "question": "Que signifie DNS ?",
+        "options": {
+          "a": "Domain Name System",
+          "b": "Data Network Service",
+          "c": "Distributed Network System"
+        },
+        "correct_option": "a"
+      },
+      {
+        "id": 8,
+        "question": "Quel est le role d'une passerelle reseau (gateway) ?",
+        "options": {
+          "a": "Connecter deux reseaux differents",
+          "b": "Assigner des adresses IP",
+          "c": "Bloquer le trafic malveillant"
+        },
+        "correct_option": "a"
+      },
+      {
+        "id": 9,
+        "question": "Quel appareil utilise une table ARP ?",
+        "options": {
+          "a": "Switch",
+          "b": "Routeur",
+          "c": "Ordinateur"
+        },
+        "correct_option": "b"
+      },
+      {
+        "id": 10,
+        "question": "Quel est le role d'un pare-feu (firewall) ?",
+        "options": {
+          "a": "Filtrer le trafic reseau",
+          "b": "Fournir des adresses IP",
+          "c": "Resoudre les noms de domaine"
+        },
+        "correct_option": "a"
       }
     ],
     "Cyber Security": [
@@ -152,6 +252,56 @@
           "a": "Scanning",
           "b": "Spoofing",
           "c": "Sniffing"
+        },
+        "correct_option": "a"
+      },
+      {
+        "id": 6,
+        "question": "Qu'est-ce qu'une attaque brute force ?",
+        "options": {
+          "a": "Tester toutes les combinaisons possibles",
+          "b": "Exploiter une faille logicielle",
+          "c": "Usurper une identité"
+        },
+        "correct_option": "a"
+      },
+      {
+        "id": 7,
+        "question": "Quel est le role d'un certificat SSL ?",
+        "options": {
+          "a": "Authentifier un site web",
+          "b": "Compresser des donnees",
+          "c": "Accelerer la navigation"
+        },
+        "correct_option": "a"
+      },
+      {
+        "id": 8,
+        "question": "Quel terme designe un logiciel malveillant ?",
+        "options": {
+          "a": "Malware",
+          "b": "Spyware",
+          "c": "Adware"
+        },
+        "correct_option": "a"
+      },
+      {
+        "id": 9,
+        "question": "Quel outil est utilise pour capturer des paquets reseaux ?",
+        "options": {
+          "a": "Wireshark",
+          "b": "Metasploit",
+          "c": "Nmap"
+        },
+        "correct_option": "a"
+      },
+      {
+        "id": 10,
+        "question": "Que signifie l'acronyme IDS ?",
+        "options": {
+          "a": "Intrusion Detection System",
+          "b": "Internet Domain System",
+          "c": "Internal Data Stream"
         },
         "correct_option": "a"
       }
@@ -206,6 +356,56 @@
           "c": "npm get"
         },
         "correct_option": "b"
+      },
+      {
+        "id": 6,
+        "question": "Quel est l'objectif de l'attribut 'alt' dans une balise <img> ?",
+        "options": {
+          "a": "Ameliorer le SEO",
+          "b": "Afficher une description de l'image",
+          "c": "Les deux"
+        },
+        "correct_option": "c"
+      },
+      {
+        "id": 7,
+        "question": "Quel est l'avantage principal des feuilles de style externes ?",
+        "options": {
+          "a": "Reduire le temps de chargement",
+          "b": "Reutilisabilite",
+          "c": "Rendre le site interactif"
+        },
+        "correct_option": "b"
+      },
+      {
+        "id": 8,
+        "question": "Quel framework est utilise pour des interfaces Reactives ?",
+        "options": {
+          "a": "React",
+          "b": "Laravel",
+          "c": "Django"
+        },
+        "correct_option": "a"
+      },
+      {
+        "id": 9,
+        "question": "Quel balise est utilisee pour creer un formulaire HTML ?",
+        "options": {
+          "a": "<form>",
+          "b": "<input>",
+          "c": "<button>"
+        },
+        "correct_option": "a"
+      },
+      {
+        "id": 10,
+        "question": "Quel type de requete HTTP est utilise pour envoyer des donnees ?",
+        "options": {
+          "a": "GET",
+          "b": "POST",
+          "c": "DELETE"
+        },
+        "correct_option": "b"
       }
     ],
     "Algorithmes": [
@@ -258,7 +458,58 @@
           "c": "O(log n)"
         },
         "correct_option": "b"
+      },
+      {
+        "id": 6,
+        "question": "Quel est le but de la recherche dichotomique ?",
+        "options": {
+          "a": "Diviser les donnees",
+          "b": "Chercher un element rapidement",
+          "c": "Fusionner des listes"
+        },
+        "correct_option": "b"
+      },
+      {
+        "id": 7,
+        "question": "Quel algorithme de tri est base sur une structure de tas (heap) ?",
+        "options": {
+          "a": "Tri par tas",
+          "b": "Tri rapide",
+          "c": "Tri a bulles"
+        },
+        "correct_option": "a"
+      },
+      {
+        "id": 8,
+        "question": "Quel est le but d'un algorithme de compression ?",
+        "options": {
+          "a": "Reduire la taille des donnees",
+          "b": "Supprimer les doublons",
+          "c": "Accelerer la recherche"
+        },
+        "correct_option": "a"
+      },
+      {
+        "id": 9,
+        "question": "Quelle est la complexite du tri a bulles dans le pire des cas ?",
+        "options": {
+          "a": "O(n)",
+          "b": "O(n^2)",
+          "c": "O(log n)"
+        },
+        "correct_option": "b"
+      },
+      {
+        "id": 10,
+        "question": "Quel algorithme est utilise pour detecter des cycles dans un graphe ?",
+        "options": {
+          "a": "DFS",
+          "b": "BFS",
+          "c": "Dijkstra"
+        },
+        "correct_option": "a"
       }
     ]
   }
 }
+
